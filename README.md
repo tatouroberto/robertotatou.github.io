@@ -9,10 +9,12 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -52,6 +54,14 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link](https://tatouroberto.github.io/robertotatou.github.io/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -84,6 +94,9 @@ npm install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+### Deployment
+You can deploy this code on your computing machine by using a liveserver extension on Visual Studio code text editor or find an equivalent extension on any other brand you use.
 
 ## 👥 Authors <a name="authors"></a>
 
